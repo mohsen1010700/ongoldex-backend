@@ -1,13 +1,13 @@
 ---
 app:
-  name: OpenDAX
-  domain: app.local
-  subdomain: www
+  name: ongoldex
+  domain: ongoldex.ir
+  subdomain: app
   show_landing: true
 render_protect: false
 csrfEnabled: false
 ssl:
-  enabled: false
+  enabled: true
   email: support@example.com
 updateVersions: false
 images:
