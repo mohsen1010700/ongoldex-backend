@@ -1,13 +1,13 @@
 ---
 app:
   name: ongoldex
-  domain: ongoldex.ir
-  subdomain: app
+  domain: app.local
+  subdomain: www
   show_landing: true
 render_protect: false
 csrfEnabled: false
 ssl:
-  enabled: true
+  enabled: false
   email: support@example.com
 updateVersions: false
 images:
