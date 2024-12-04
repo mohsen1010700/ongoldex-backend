@@ -1,14 +1,14 @@
 ---
 app:
   name: ongoldex
-  domain: app.local
-  subdomain: www
+  domain: ongoldex.ir
+  subdomain: app
   show_landing: true
 render_protect: false
 csrfEnabled: false
 ssl:
-  enabled: false
-  email: support@example.com
+  enabled: true
+  email: support@ongoldex.ir
 updateVersions: false
 images:
   peatio: quay.io/openware/peatio:2.6.59
