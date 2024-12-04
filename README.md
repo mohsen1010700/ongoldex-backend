@@ -1,4 +1,4 @@
-![Cryptocurrency Exchange Platform - OpenDAX](https://github.com/openware/meta/raw/main/images/github_opendax.png)
+
 
 <h3 align="center">
 <a href="https://www.openware.com/sdk">Guide</a> <span>&vert;</span>
